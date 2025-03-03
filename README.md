@@ -38,6 +38,7 @@ The 99% 10-day VaR for the portfolio is: 0.XXXX
 
 ## Author
 Satyam
+
 University at Buffalo
 School of Management
 MS in Business Analytics (Finance)
